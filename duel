@@ -196,7 +196,7 @@ end
 
 local DuelsBtn = MakeBtn(
     "Duels Script",
-    "pvp combat enhancements",
+    "best 1v1 script",
     80,
     Color3.fromRGB(120, 70, 255),
     "⚔"
@@ -204,7 +204,7 @@ local DuelsBtn = MakeBtn(
 
 local TradeBtn = MakeBtn(
     "Trade Freezer Script",
-    "freeze trade window",
+    "freeze trade",
     164,
     Color3.fromRGB(50, 180, 255),
     "❄"
